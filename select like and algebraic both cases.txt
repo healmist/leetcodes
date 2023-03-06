@@ -1,0 +1,5 @@
+# Write your MySQL query statement belo, BIOTH CASES ARE WORTH!!!!!!!!!!!!!
+
+SELECT product_id FROM Products WHERE low_fats like 'Y' AND recyclable like 'Y';
+
+SELECT product_id FROM Products WHERE low_fats = 'Y' AND recyclable = 'Y';
